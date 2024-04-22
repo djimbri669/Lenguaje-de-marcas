@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<articles>
+    <article>
+        <name>Camisa</name>
+        <price>25.99</price>
+        <code>123456</code>
+        <manufacturer>MarcaA</manufacturer>
+    </article>
+    <article>
+        <name>Pantalón</name>
+        <price>39.99</price>
+        <code>789012</code>
+        <manufacturer>MarcaB</manufacturer>
+    </article>
+    <article>
+        <name>Zapatos</name>
+        <price>49.99</price>
+        <code>345678</code>
+        <manufacturer>MarcaC</manufacturer>
+    </article>
+</articles>

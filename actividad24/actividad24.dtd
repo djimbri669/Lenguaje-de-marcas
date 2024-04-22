@@ -1,0 +1,6 @@
+<!ELEMENT articles (article+)>
+<!ELEMENT article (name, price, code, manufacturer)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT code (#PCDATA)>
+<!ELEMENT manufacturer (#PCDATA)>
